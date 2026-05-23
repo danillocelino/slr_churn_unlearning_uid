@@ -62,19 +62,4 @@ The notebook loads all five CSVs from the `databases/` folder, merges them, remo
 
 ---
 
-## Citation
 
-If you use this dataset or methodology, please cite:
-
-```
-Celino, D. (2026). Machine Unlearning in Churn Prediction Models:
-A Systematic Literature Review on Selective Forgetting of Personal
-Data Identifiers. ISEP — Instituto Superior de Engenharia do Porto.
-```
-
----
-
-## License
-
-Data exports are subject to the terms of each database provider.
-Code and methodology are released under the MIT License.
